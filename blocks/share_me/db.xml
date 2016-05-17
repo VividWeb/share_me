@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="btShareMe">
+		<field name="bID" type="I">
+			<key />
+			<unsigned />
+		</field>
+		<field name="style" type="X2"></field>
+		<field name="shareThis" type="I"></field>
+		<field name="google" type="I"></field>
+		<field name="facebook" type="I"></field>
+		<field name="twitter" type="I"></field>
+		<field name="linkedin" type="I"></field>
+		<field name="pinterest" type="I"></field>
+		<field name="email" type="I"></field>
+	</table>
+</schema>
